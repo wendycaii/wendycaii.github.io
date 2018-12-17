@@ -14,7 +14,12 @@ h1 {
 }
 
 a {
-color: #C27684;
+color: white;
+text-decoration: none;
+}
+
+b {
+color: black;
 text-decoration: none;
 }
 
@@ -32,5 +37,5 @@ portfolio entries */
 .portfolio-item {
 margin-top: 60px;
 padding: 40px;
-background-color: #f7f7f7;
+background-color: white;
 }
